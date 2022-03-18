@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-18T09:08:11Z" name="Default suite" finished-at="2022-03-18T09:08:19Z" duration-ms="7937">
+    <groups>
+    </groups>
+    <test started-at="2022-03-18T09:08:11Z" name="Default test" finished-at="2022-03-18T09:08:19Z" duration-ms="7937">
+      <class name="guru.Guru99">
+        <test-method signature="guru()[pri:0, instance:guru.Guru99@8462f31]" started-at="2022-03-18T14:38:11Z" name="guru" finished-at="2022-03-18T14:38:19Z" duration-ms="7907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- guru -->
+      </class> <!-- guru.Guru99 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
